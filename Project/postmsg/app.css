@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Patrick Hand', cursive;
+}
+*:focus {
+    outline: none;
+}
+
+::placeholder{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+input {
+    height: 2.5em;
+    width: 15em;
+    border-radius: 2em;
+    margin: 1em;
+    font-size: 3em;
+}
+
+button {
+    height: 2.5em;
+    width: 10em;
+}
+
+main {
+    margin-left: 2em;
+}
+
+#post-submit {
+    height: 4em;
+    width: 20em;
+    border-radius: 2em;
+    margin: 1em;
+}
+
